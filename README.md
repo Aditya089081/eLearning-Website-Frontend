@@ -41,7 +41,7 @@ assets folder — Contains images and certificate templates
 💡 How to Run
 
 Download or clone this repository
-→ git clone https://github.com/yourusername/E-Learning-Platform.git
+→ https://github.com/Aditya089081/eLearning-Website-Frontend
 
 Open the project folder
 
